@@ -2,7 +2,7 @@
 Automatically send a reminder email to invitees of events you have created in Google Calendar
 
 ## Requirements
-Google Workspace account: uses Google Calendar and Gmail 
+Google Workspace account: uses Google Calendar and Gmail  
 A Google Cloud Project  
 
 

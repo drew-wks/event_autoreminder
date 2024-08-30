@@ -8,7 +8,7 @@ A Google Cloud Project
 Within GCP,  
 You'll need to enable the Calendar and Gmail APIs for your project
 Create a OAuth Client ID. Create a OAuth consent screen if this is your first time  
-d.	Define the scopes your application can access:  
+Define the scopes your application can access:  
 i.	For Google Calendar: https://www.googleapis.com/auth/calendar.readonly  
 ii.	For Gmail: https://www.googleapis.com/auth/gmail.send  
 Download the credential.json file  

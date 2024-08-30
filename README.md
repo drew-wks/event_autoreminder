@@ -1,9 +1,10 @@
-# event_autoreminder
+# Google Calendar Eevent Autoreminder Email
 Automatically send a reminder email to invitees of events you have created in Google Calendar
 
 ## Requirements
 Google workspace  
-you'll need to create an API for Calendar and for Gmail  
+set up a Google Cloud Project
+you'll need to enable the Calendar and Gmail APIs for your project
 Create a OAuth Client ID. Create a OAuth consent screen if this is your first time  
 d.	Define the scopes your application can access:  
 i.	For Google Calendar: https://www.googleapis.com/auth/calendar.readonly  

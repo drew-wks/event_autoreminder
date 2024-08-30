@@ -3,7 +3,8 @@ Automatically send a reminder email to invitees of events you have created in Go
 
 ## Requirements
 Google Workspace account
-A Google Cloud Project
+A Google Cloud Project  
+
 Within GCP,  
 You'll need to enable the Calendar and Gmail APIs for your project
 Create a OAuth Client ID. Create a OAuth consent screen if this is your first time  
